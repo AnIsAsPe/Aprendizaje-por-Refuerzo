@@ -2,7 +2,7 @@
 
 El presente repositorio se refiere a un curso sobre Aprendizaje por Refuerzo, impartido en colaboración con el [Colegio de Matemáticas Bourbaki](https://www.colegio-bourbaki.com/) 
 
-En este repositorio se modela en Python una microrred energética como un proceso de decisión de Marckov haciendo uso de la biblioteca [Pymgrid](https://github.com/Total-RD/pymgrid) con la finalidad de obtener un control adaptativo que maximice su potencial.
+En este repositorio se modela en Python una microrred energética como un proceso de decisión de Markov haciendo uso de la biblioteca [Pymgrid](https://github.com/Total-RD/pymgrid) con la finalidad de obtener un control adaptativo que maximice su potencial.
 
 La micro-red energética elegida para su modelación, a partir de las más de 600 disponibles en Pymgrid, se compone por una fuente de generación fotovoltaica, una batería y un generador de energía no renovable.
 
